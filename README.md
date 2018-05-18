@@ -10,4 +10,4 @@ Teniamo traccia delle attività di ricerca, sperimentazione e sviluppo in modo d
 
 
 ## Come
-Per la parte di raccolta di documentazione utilizzeremo la sezione wiki. Tutti siete invitati a partecipare.
+Per la parte di raccolta di documentazione utilizzeremo la sezione _[WIKI](https://github.com/fablabromagna-org/raspberrypi-risorse/wiki)_. Tutti siete invitati a partecipare.
